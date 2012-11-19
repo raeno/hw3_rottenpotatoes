@@ -5,3 +5,7 @@ TAGS
 db/schema.rb
 log/
 db/*.sqlite3
+*.sqlite3
+
+.idea/
+/tmp
